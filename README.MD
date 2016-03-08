@@ -8,6 +8,6 @@
 
 ![Screen shots](https://raw.githubusercontent.com/mustafawm/stickynotestab/master/sticky%20notes%20img.png)
 
->  ** Comments & feedback**
+>  **Comments & feedback**
 >  
 > feel free to post you them here, or just mention me on twitter [@mustafa_watha](https://twitter.com/mustafa_watha)
